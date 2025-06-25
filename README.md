@@ -1,12 +1,7 @@
 # Tunecloud_
 TuneCloud is a comprehensive SQL-based project built to simulate the backend of a music streaming platform (like Spotify or Apple Music). It was created as part of an academic DBMS project, featuring real-world database design with normalized schema, sample data, and query use cases.
  TuneCloud SQL Project
-A full-fledged SQL-based DBMS project simulating a music streaming platform. This project is built as part of academic coursework by:
-
-Khushi Pandya – 202301406
-Bhagya Majithiya – 202301269
-Rajankumar Chauhan – 202301427
-Kirtan Chauhan – 202301409
+A full-fledged SQL-based DBMS project simulating a music streaming platform. 
  Overview
 TuneCloud mimics the database backend of a real-world streaming service like Spotify or Apple Music. It captures all major components including users, artists, songs, playlists, subscriptions, and listening history.
 
@@ -29,7 +24,7 @@ Start/end dates, linked to users
  Tech Stack
 MySQL / MariaDB or any SQL-compatible RDBMS
 SQL (DDL & DML)
-📄 Files Included
+ Files Included
 tunecloud_schema.sql — Full schema creation script
 README.md — This file (project documentation)
 (Optional) sample_data.sql — Add your own test data if needed
